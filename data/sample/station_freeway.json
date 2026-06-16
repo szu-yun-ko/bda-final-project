@@ -1,0 +1,24 @@
+[
+  {
+    "StationUID": "FWY-001",
+    "StationName": "Taoyuan Service Area EV",
+    "PositionLat": 24.9838,
+    "PositionLon": 121.1892,
+    "City": "Taoyuan",
+    "Address": "National Freeway Service Area",
+    "MaxPowerKW": 200,
+    "ConnectorCount": 10,
+    "ConnectorTypes": ["CCS2", "CHADEMO"]
+  },
+  {
+    "StationUID": "FWY-002",
+    "StationName": "Hukou Service Area EV",
+    "PositionLat": 24.8994,
+    "PositionLon": 121.0465,
+    "City": "Hsinchu",
+    "Address": "National Freeway Service Area",
+    "MaxPowerKW": 150,
+    "ConnectorCount": 8,
+    "ConnectorTypes": ["CCS2"]
+  }
+]

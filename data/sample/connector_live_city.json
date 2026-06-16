@@ -1,0 +1,17 @@
+[
+  { "StationUID": "CITY-TPE-001", "ConnectorStatus": "1" },
+  { "StationUID": "CITY-TPE-001", "ConnectorStatus": "1" },
+  { "StationUID": "CITY-TPE-001", "ConnectorStatus": "2" },
+  { "StationUID": "CITY-NWT-002", "ConnectorStatus": "2" },
+  { "StationUID": "CITY-NWT-002", "ConnectorStatus": "1" },
+  { "StationUID": "CITY-TYN-003", "ConnectorStatus": "1" },
+  { "StationUID": "CITY-TYN-003", "ConnectorStatus": "1" },
+  { "StationUID": "CITY-TYN-003", "ConnectorStatus": "1" },
+  { "StationUID": "CITY-HSZ-004", "ConnectorStatus": "2" },
+  { "StationUID": "CITY-HSZ-004", "ConnectorStatus": "3" },
+  { "StationUID": "CITY-TPE-005", "ConnectorStatus": "1" },
+  { "StationUID": "FWY-001", "ConnectorStatus": "1" },
+  { "StationUID": "FWY-001", "ConnectorStatus": "2" },
+  { "StationUID": "FWY-002", "ConnectorStatus": "1" },
+  { "StationUID": "FWY-002", "ConnectorStatus": "1" }
+]

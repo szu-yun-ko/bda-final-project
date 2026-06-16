@@ -1,0 +1,57 @@
+[
+  {
+    "StationUID": "CITY-TPE-001",
+    "StationName": "Taipei Main Station EV Hub",
+    "PositionLat": 25.0483,
+    "PositionLon": 121.5176,
+    "City": "Taipei",
+    "Address": "Zhongzheng District, Taipei",
+    "MaxPowerKW": 120,
+    "ConnectorCount": 6,
+    "ConnectorTypes": ["CCS2", "CHADEMO"]
+  },
+  {
+    "StationUID": "CITY-NWT-002",
+    "StationName": "Banqiao Civic EV Station",
+    "PositionLat": 25.0120,
+    "PositionLon": 121.4632,
+    "City": "NewTaipei",
+    "Address": "Banqiao District, New Taipei",
+    "MaxPowerKW": 90,
+    "ConnectorCount": 4,
+    "ConnectorTypes": ["CCS2"]
+  },
+  {
+    "StationUID": "CITY-TYN-003",
+    "StationName": "Taoyuan Arts EV Station",
+    "PositionLat": 25.0164,
+    "PositionLon": 121.3055,
+    "City": "Taoyuan",
+    "Address": "Taoyuan District, Taoyuan",
+    "MaxPowerKW": 180,
+    "ConnectorCount": 8,
+    "ConnectorTypes": ["CCS2"]
+  },
+  {
+    "StationUID": "CITY-HSZ-004",
+    "StationName": "Hsinchu Downtown EV Park",
+    "PositionLat": 24.8038,
+    "PositionLon": 120.9647,
+    "City": "Hsinchu",
+    "Address": "East District, Hsinchu",
+    "MaxPowerKW": 100,
+    "ConnectorCount": 5,
+    "ConnectorTypes": ["CCS2", "J1772"]
+  },
+  {
+    "StationUID": "CITY-TPE-005",
+    "StationName": "Neihu Tech EV Station",
+    "PositionLat": 25.0838,
+    "PositionLon": 121.5673,
+    "City": "Taipei",
+    "Address": "Neihu District, Taipei",
+    "MaxPowerKW": 60,
+    "ConnectorCount": 3,
+    "ConnectorTypes": ["J1772"]
+  }
+]

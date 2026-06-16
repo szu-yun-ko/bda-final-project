@@ -1,0 +1,12 @@
+[
+  {"StationUID": "CITY-TPE-001", "ConnectorType": "CCS2", "MaxPowerKW": 120},
+  {"StationUID": "CITY-TPE-001", "ConnectorType": "CHADEMO", "MaxPowerKW": 60},
+  {"StationUID": "CITY-NWT-002", "ConnectorType": "CCS2", "MaxPowerKW": 90},
+  {"StationUID": "CITY-TYN-003", "ConnectorType": "CCS2", "MaxPowerKW": 180},
+  {"StationUID": "CITY-HSZ-004", "ConnectorType": "CCS2", "MaxPowerKW": 100},
+  {"StationUID": "CITY-HSZ-004", "ConnectorType": "J1772", "MaxPowerKW": 7},
+  {"StationUID": "CITY-TPE-005", "ConnectorType": "J1772", "MaxPowerKW": 60},
+  {"StationUID": "FWY-001", "ConnectorType": "CCS2", "MaxPowerKW": 200},
+  {"StationUID": "FWY-001", "ConnectorType": "CHADEMO", "MaxPowerKW": 100},
+  {"StationUID": "FWY-002", "ConnectorType": "CCS2", "MaxPowerKW": 150}
+]
