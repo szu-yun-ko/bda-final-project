@@ -1,0 +1,15 @@
+.env
+frontend/.env
+.git
+.gitignore
+__pycache__
+*.pyc
+.venv
+frontend/node_modules
+frontend/dist
+data/cache
+outputs
+notebooks
+.DS_Store
+*.md
+!README.md

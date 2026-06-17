@@ -1,0 +1,18 @@
+# Render Blueprint: https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: bda-ev-route
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: TDX_CLIENT_ID
+        sync: false
+      - key: TDX_CLIENT_SECRET
+        sync: false
+      - key: TDX_BASE_URL
+        value: https://tdx.transportdata.tw/api/basic
+      - key: TDX_TOKEN_URL
+        value: https://tdx.transportdata.tw/auth/realms/TDXConnect/protocol/openid-connect/token
+      - key: VITE_MAPBOX_TOKEN
+        sync: false
